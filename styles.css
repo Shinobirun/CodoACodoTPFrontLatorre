@@ -1,5 +1,5 @@
 
-/* Navbar ----------------------------------------------------------------------------------------------------------------------------- */
+
 .navbar {
     width: 100%;
     text-align: center;
@@ -21,7 +21,8 @@
     height: auto;
     }
 
-/* Introduccion */
+
+
 .introduccion {
     background-image: url(./assets/img/ba3.jpg);
     background-size: cover;
@@ -69,8 +70,8 @@
     text-decoration: none;
     margin-right: 1rem;
     font-size: 1.5rem;
-  }
-/* Botones */
+
+
 .btn {
     padding: 0.5rem 1rem;
     margin: 0;
@@ -110,8 +111,8 @@
     color: whitesmoke;
     transition: 0.4s;
 }
+  
 
-/* Oradores --------------------------------------------------------------------------------------------------------------------------- */
 .oradores .titulo {
     text-align: center;
 }
@@ -192,7 +193,6 @@
 }
 
 
-/* Banner */
 .banner {
     margin-top: 1rem;
   }
@@ -250,7 +250,7 @@
     transition: 0.3s;
   }
 
-/* Formulario */
+
 .formulario {
     display: flex;
     flex-direction: column;
@@ -321,7 +321,7 @@
     background-color: #11e61c;
     transition: 0.3s;
   }
-/* Footer ----------------------------------------------------------------------------------------------------------------------------- */
+
 .footer {
     background-image: linear-gradient(to right, #004d7a, #00838f);
 }
